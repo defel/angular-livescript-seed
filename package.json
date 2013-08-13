@@ -1,0 +1,22 @@
+{
+  "name": "project-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.1.0",
+    "mongoose": "3.6.2",
+    
+    "grunt-karma": "*",
+    "grunt-check-modules": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-livescript": "*",
+    "grunt-contrib-copy": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-livereload": "*",
+    "karma-jasmine": "*",
+    "jasmine-node": "*"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}

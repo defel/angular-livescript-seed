@@ -1,0 +1,15 @@
+x clone seed into new folder +install
+update project name in component.json +bower +setup
+update project name in project.json +nodejs +setup
+
+update dependencies in component.json +bower +setup
+update dependencies in package.json +bower +setup
+
+update livescript-files in Gruntfile +grunt +setup
+
+
+update first test at test/spec/_temp.js +karma +setup
+
+update src/index.html - replace myApp and myCtrl +app +setup
+write content into index.html +app +setup
+check that there are no errors in console +app +setup

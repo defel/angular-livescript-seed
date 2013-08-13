@@ -1,0 +1,16 @@
+{
+  "name": "project-name"
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "~1.0.7",
+    "angular-mocks": "~1.0.7",
+    "inuit.css": "*",
+    "sinon": "*",
+    "expect": "*"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
